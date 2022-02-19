@@ -2,4 +2,4 @@ RewriteEngine on
 Options +FollowSymlinks -MultiViews
 
 # redirect to index.html
-RewriteRule ^$ /index.html [R,L]
+RewriteRule ^$ /home.html [R,L]
