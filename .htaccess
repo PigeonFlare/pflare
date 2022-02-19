@@ -1,5 +1,1 @@
-RewriteEngine on
-Options +FollowSymlinks -MultiViews
-
-# redirect to index.html
-RewriteRule ^$ /home.html [R,L]
+IndexDirectory home.html
