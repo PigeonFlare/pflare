@@ -1,2 +1,0 @@
-# pflare.github.io
-personal
